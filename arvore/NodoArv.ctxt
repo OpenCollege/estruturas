@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=NodoArv
+comment1.params=
+comment1.target=NodoArv()
+comment2.params=info
+comment2.target=NodoArv(int)
+comment3.params=info
+comment3.target=void\ setInfo(int)
+comment4.params=
+comment4.target=NodoArv\ getEsq()
+comment5.params=
+comment5.target=NodoArv\ getDir()
+comment6.params=nodo
+comment6.target=void\ setEsq(NodoArv)
+comment7.params=nodo
+comment7.target=void\ setDir(NodoArv)
+comment8.params=
+comment8.target=int\ getInfo()
+comment9.params=inicio
+comment9.target=void\ setProx(NodoArv)
+numComments=10
